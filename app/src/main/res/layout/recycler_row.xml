@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="50dp"
+    android:padding="16dp"
+    android:background="@drawable/cerceve"
+    >
+    <TextView
+        android:id="@+id/recyclerEmailText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Kullanıcı Email"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="15dp" />
+
+    <com.example.fotografpaylasma.view.zoomableImageView
+        android:id="@+id/recyclerImageView"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="5dp"
+        />
+
+
+
+    <TextView
+        android:id="@+id/recyclerCommentText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="5dp"
+        android:text="Kullanıcı yorum" />
+
+</LinearLayout>

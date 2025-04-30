@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FotografPaylasma</string>
+    <string name="server_client_id">386216197947-lo4edesfhu5e34mtu44h3bti7ftbm483.apps.googleusercontent.com
+
+</string>
+    <string name="google_sign_in">Google ile giriş yap</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
