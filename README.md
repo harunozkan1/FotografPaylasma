@@ -18,7 +18,7 @@ Bu proje, Android öğrenme sürecimde Firebase servislerini (Authentication, St
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **Kotlin**  
+- **Kotlin**  dear github
 - **Firebase Authentication**  
 - **Firebase Storage**  
 - **Firebase Firestore**asdasd  
