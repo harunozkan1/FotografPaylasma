@@ -21,7 +21,7 @@ Bu proje, Android öğrenme sürecimde Firebase servislerini (Authentication, St
 - **Kotlin**  
 - **Firebase Authentication**  
 - **Firebase Storage**  
-- **Firebase Firestore**  
+- **Firebase Firestore**asdasd  
 - **RecyclerView** (gönderi listeleme için)
 
 ---
